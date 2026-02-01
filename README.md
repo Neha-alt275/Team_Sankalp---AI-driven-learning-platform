@@ -7,11 +7,11 @@ Sankalp StudyAI is an AI-powered study intelligence platform developed by Team S
 The platform analyzes a student’s study material, learning behavior, and performance data to deliver personalized learning insights, adaptive quizzes, and intelligent revision strategies.
 Unlike traditional learning platforms, Sankalp StudyAI works with the student’s own content, ensuring a truly personalized and focused learning experience.
 
- **Problem Statement - **
+ **Problem Statement**-
  
 Most learning platforms offer generic content and standard quizzes for all students. This one-size-fits-all approach leads to inefficient studying, weak concept retention, and poor exam readiness.
 
- **Solution Approach - **
+ **Solution Approach**-
  
 Sankalp StudyAI leverages Artificial Intelligence and Natural Language Processing (NLP) to:
 Extract and organize key concepts from study material
@@ -24,7 +24,7 @@ Recommend what to study, how to study, and when to revise
 
 The platform acts as a personal AI study guide, promoting active learning and continuous improvement.
 
- **Key Features - **
+ **Key Features**- 
  
  Upload PDFs, PPTs, images, and text notes
  
@@ -41,7 +41,7 @@ The platform acts as a personal AI study guide, promoting active learning and co
  Light learning integrity checks
  
 
-**Repository Structure - **
+**Repository Structure**- 
  
  Sankalp-StudyAI
 
@@ -51,7 +51,7 @@ The platform acts as a personal AI study guide, promoting active learning and co
 
 ├── README.md         # Project documentation
 
-**Technology Stack - **
+**Technology Stack**- 
  
 Frontend: React / Vue.js, React Native
 
@@ -63,7 +63,7 @@ Databases: PostgreSQL, Neo4j, Redis
 
 Infrastructure: Docker, Cloud (AWS/GCP)
 
-**Team Information - **
+**Team Information**- 
  
 Team Name: Team Sankalp
 
@@ -71,7 +71,7 @@ Team Leader: Neha Chimankar
 
 Hackathon: AWS AI for Bharat Hackathon
 
- **Future Enhancements - **
+ **Future Enhancements**- 
  
 Exam-oriented preparation modes
 
@@ -83,7 +83,7 @@ Offline study access
 
 Advanced analytics for educators
 
-**License - **
+**License**-
  
 This project is developed for academic and hackathon purposes. Licensing can be updated as required.
 
