@@ -43,7 +43,7 @@ The platform acts as a personal AI study guide, promoting active learning and co
 **Repository Structure**
  
  Sankalp-StudyAI
-│
+
 ├── requirements.md   # Functional & non-functional requirements
 ├── design.md         # System design, architecture & data models
 ├── README.md         # Project documentation
@@ -51,15 +51,21 @@ The platform acts as a personal AI study guide, promoting active learning and co
 **Technology Stack**
  
 Frontend: React / Vue.js, React Native
+
 Backend: Node.js / Python
+
 AI & NLP: OpenAI, spaCy, scikit-learn
+
 Databases: PostgreSQL, Neo4j, Redis
+
 Infrastructure: Docker, Cloud (AWS/GCP)
 
 **Team Information**
  
 Team Name: Team Sankalp
+
 Team Leader: Neha Chimankar
+
 Hackathon: AWS AI for Bharat Hackathon
 
  **Future Enhancements**
