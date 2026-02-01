@@ -45,11 +45,12 @@ The platform acts as a personal AI study guide, promoting active learning and co
  
  Sankalp-StudyAI
 
+├── README.md         # Project documentation
+
 ├── requirements.md   # Functional & non-functional requirements
 
 ├── design.md         # System design, architecture & data models
 
-├── README.md         # Project documentation
 
 **Technology Stack**- 
  
