@@ -1,7 +1,7 @@
 # Team_Sankalp---AI-driven-learning-platform
 Team Sankalp’s AI-powered study platform delivers personalized learning insights using student behavior and performance analysis. It offers adaptive quizzes, smart summaries, and focused revision strategies to improve concept retention, save study time, and boost exam readiness.
 
- **Overview**
+ **Overview** 
  
 Sankalp StudyAI is an AI-powered study intelligence platform developed by Team Sankalp to help students learn smarter, revise efficiently, and prepare confidently for exams.
 The platform analyzes a student’s study material, learning behavior, and performance data to deliver personalized learning insights, adaptive quizzes, and intelligent revision strategies.
